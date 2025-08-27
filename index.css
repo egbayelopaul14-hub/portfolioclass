@@ -91,7 +91,10 @@ footer a:hover {
 }
 
 .main-image {
-  max-width: 100%
+  width: 1000px;
+  max-width: 100%;
   height: auto
-  border-radius: 10px
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
 }
